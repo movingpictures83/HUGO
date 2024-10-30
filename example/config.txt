@@ -1,0 +1,2 @@
+Prefix plugins/HUGO/example/
+Plugin HUGO inputfile parameters.hugo.txt outputfile ./
